@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ml-project
+Version: 0.0.1
+Author: bharath
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: requires-dist
